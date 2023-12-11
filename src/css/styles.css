@@ -9,7 +9,7 @@
 
 body {
     background: var(--bgcolor);    
-   
+    color: #fff;
 }
 header{
     color: #fff;
